@@ -36,3 +36,7 @@ Rebase eliminates unnecessary merge commits, keeping the commit log concise and 
 ## Conclusion
 
 Using rebase in GitHub helps maintain a clean, understandable project history, simplifies collaboration, and makes conflict resolution more manageable.
+
+## Code Owner
+
+- [Ganesh Sharma](ganeshkithana@gmail.com)
