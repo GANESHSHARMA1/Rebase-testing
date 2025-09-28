@@ -40,3 +40,4 @@ Using rebase in GitHub helps maintain a clean, understandable project history, s
 ## Code Owner
 
 - [Ganesh Sharma](ganeshkithana@gmail.com)
+- [Others](www.example.com)
